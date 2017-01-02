@@ -1,4 +1,5 @@
 2017 01 01	0000 0010	Research       Horaire       Creation
 2017 01 01	0830 0900	Illustration   Lense         Development
-2017 01 01	1700 1800	Photography    Iceland       Development       Re-Edited Day 1 Photos
+2017 01 01	1700 1800	Photography    Iceland       Development             Re-Edited Day 1 Photos
 2017 01 01	1800 1830	Research       Horaire       Development
+2017 01 01	2300 2330	Illustration   Daily         Creation + Development
