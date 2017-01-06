@@ -1,5 +1,7 @@
 2017 01 02	1000 1100	Reading               The Maker                           Borges
 2017 01 03	0800 0830	Reading               Rationality: From AI to Zombies     Eliezer Yudkowsky
-2017 01 03	1030 1100	Reading               The Maker	                          Borges	
-2017 01 03	1000 1100	Listening             
+2017 01 03	1030 1100	Reading               The Maker	                          Borges     
 2017 01 04
+2017 01 05
+2017 01 06
+2017 01 07
