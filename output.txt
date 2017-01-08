@@ -1,12 +1,12 @@
-2017 01 01	0000 0010	Research	Horaire	Creation		
-2017 01 01	0830 0900	Illustration	Lensse	Development		
-2017 01 01	1700 1800	Photography	Iceland	Photography	Day 1	Re-Edited Day 1 Photos
-2017 01 01	1800 1830	Research	Horaire	Development		
-2017 01 01	2300 2330	Artwork	Daily	Creation + Illustration	2017 01 01	
-2017 01 02	0830 0900	Branding	Tumblr	Design		
-2017 01 03	1000 1030	Propaganda	Methlab	Design		
-2017 01 03	1930 2030	Artwork	Daily	Illustration	2017 01 03	
-2017 01 04	1930 2030	Artwork	Daily	Illustration	2017 01 04	
-2017 01 05	1130 1200	Branding	Tollen	Design		
-2017 01 06	1030 1150	Illustration	Lensse	Illustration	Xerrox	
-2017 01 07	2100 2150	Artwork	Daily	Illustration	2017 01 07	
+2017 01 01	0000 0010	Research              Horaire       Creation
+2017 01 01	0830 0900	Illustration          Lensse        Development
+2017 01 01	1700 1800	Photography           Iceland       Photography                     Day 1          Re-edited Day 1 Photos
+2017 01 01	1800 1830	Research              Horaire       Development
+2017 01 01	2300 2330	Illustration          Daily         Creation + Illustration         2016 01 01
+2017 01 02	0830 0900	Branding              Tumblr        Design
+2017 01 03	1000 1030	Propaganda            Methlab       Design
+2017 01 03	1930 2030	Artwork               Daily         Illustration                    2017 01 03
+2017 01 04	1930 2030	Artwork               Daily         Illustration                    2017 01 04
+2017 01 05	1130 1200	Branding              Tollen        Design
+2017 01 06	1030 1150	Illustration          Lensse        Illustration                    Xerrox
+2017 01 07	2100 2150	Artwork               Daily         Illustration                    2017 01 07
