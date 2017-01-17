@@ -15,7 +15,7 @@
 2017 01 10	0830 0900	Artwork               Daily         Illustration                    2017 01 10
 2017 01 11	2000 2140	Artwork               Daily         Illustration                    2017 01 11
 2017 01 12	2130 2200	Artwork               Daily         Illustration                    2017 01 12
-2017 01 13	1730 1900	Lifestyle             Nest          Maintenance                                     Organized Desk
-2017 01 14	
+2017 01 13	1730 1900	Lifestyle             Nest          Maintenance                                    Organized Desk
+2017 01 14
 2017 01 15	1700 1900	Illustration          Sketchbook    Illustration
 2017 01 16
