@@ -25,3 +25,4 @@
 2017 01 18	1700 1930	Illustration          Channel       Illustration                    Tsunami
 2017 01 19	1200 1326	Illustration          Daily         Illustration                    2017 01 19
 2017 01 19	1340 1500	Illustration          Lensse        Illustration                    Suminagashi
+2017 01 20
