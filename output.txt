@@ -30,3 +30,4 @@
 2017 01 22	1300 1325	Branding              Tenel         Design
 2017 01 22	1540 1630	Illustration          Daily         Illustration                    2017 01 22
 2017 01 23	1820 1905	Branding              Sonar         Design
+2017 01 23	1935 2030	Illustration          Daily         Illustration                    2017 01 23
