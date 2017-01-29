@@ -36,3 +36,5 @@
 2017 01 26
 2017 01 27	1920 2110	Illustration          Daily         Illustration                    2017 01 27
 2017 01 27	2110 2115	Photography           Los Angeles   Photography                     2017 01 27
+2017 01 28	1250 1500	Illustration          Reven         Illustration	
+2017 01 28	1530 1820	Illustration          Channel       Illustration                    Cell
