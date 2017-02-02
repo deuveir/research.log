@@ -7,7 +7,7 @@
 2017 01 03	1000 1030	Propaganda            Methlab       Design
 2017 01 03	1930 2030	Artwork               Daily         Illustration                    2017 01 03
 2017 01 04	1930 2030	Artwork               Daily         Illustration                    2017 01 04
-2017 01 05	1130 1200	Branding              Tollen        Design
+2017 01 05	1130 1200	Design                Branding      Design                          Tollen
 2017 01 06	1030 1150	Illustration          Lensse        Illustration                    Xerrox
 2017 01 07	2100 2150	Artwork               Daily         Illustration                    2017 01 07
 2017 01 08	2100 2130	Audio                 Volyne        Composition                     Nocoria
@@ -27,11 +27,11 @@
 2017 01 19	1340 1500	Illustration          Lensse        Illustration                    Suminagashi
 2017 01 20
 2017 01 21	1620 1700	Illustration          Daily         Illustration                    2017 01 21
-2017 01 22	1300 1325	Branding              Tenel         Design
+2017 01 22	1300 1325	Design                Branding      Design                          Tenel
 2017 01 22	1540 1630	Illustration          Daily         Illustration                    2017 01 22
-2017 01 23	1820 1905	Branding              Sonar         Design
+2017 01 23	1820 1905	Design                Branding      Design                          Sonar
 2017 01 23	1935 2030	Illustration          Daily         Illustration                    2017 01 23
-2017 01 24	1730 1845	Branding              Sonicode      Design	
+2017 01 24	1730 1845	Design                Branding      Design                          Sonicode
 2017 01 25
 2017 01 26
 2017 01 27	1920 2110	Illustration          Daily         Illustration                    2017 01 27
