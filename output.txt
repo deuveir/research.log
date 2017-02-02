@@ -44,3 +44,5 @@
 2017 01 31	1200 1500	Illustration          Sketchbook    Illustration
 2017 01 31	1750 1855	Audio                 Volyne        Composition                     Nocoria
 2017 02 01	1720 1810	Audio                 Volyne        Composition                     Nocoria
+2017 02 01	2215 2235	Illustration          Lensse        Illustration                    Suminagashi V2
+2017 02 01	2235 2250	Illustration          Lensse        Illustration
