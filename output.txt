@@ -48,3 +48,5 @@
 2017 02 01	2235 2250	Illustration          Lensse        Illustration
 2017 02 02	2020 2120	Audio                 Volyne        Composition                     Nocoria
 2017 02 02	2130 2204	Audio                 Volyne        Design                          Nocoria Cover
+2017 02 03	1630 1645	Audio                 Volyne        Composition                     Nocoria
+2017 02 03	1845 2115	Audio                 Volyne        Composition                     Nocoria
