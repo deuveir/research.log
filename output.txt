@@ -1,4 +1,4 @@
-Date	      Time	    Category              Project       Activity                        Title            Description
+Date		    Time	    Category              Project       Activity                        Title            Description
 
 2017 02 06	1600 1630	Lifestyle             Nest          Maintenance                                      Organized Shelves
 2017 02 14	1850 2000	Illustration          Daily         Illustration                    2017 02 14
