@@ -1,4 +1,4 @@
-2017 02 18	1200 1340	Audio                 Volyne        Composition                      mos OST
+2017 02 18	1200 1340	Audio                 Volyne        Composition                     Omos OST
 2017 02 18	1150 1250	Interactive           Omos          Development                                            Level 01 + Shifting Mechanic
 2017 02 17	1920 1945	Audio                 Volyne        Design                          Vocolium Cover
 2017 02 17	1750 1842	Audio                 Volyne        Composition                     Vocolium
