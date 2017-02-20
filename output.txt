@@ -1,4 +1,5 @@
-2017 02 19	1800 1840	Interactive           Omos          Development                                            Fisheye Shader
+2017 02 19	2050 2130	Illustration          Daily         Illustration                    2017 02 19
+2017 02 19	1800 1840	Interactive           Omos          Development                                            Fisheye Shader & Level 01
 2017 02 19	1630 1740	Audio                 Volyne        Composition                     Omos OST
 2017 02 18	1460 1715	Interactive           Omos          Design                                                 Texture + Audio Design
 2017 02 18	1200 1340	Audio                 Volyne        Composition                     Omos OST
