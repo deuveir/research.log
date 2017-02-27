@@ -1,6 +1,9 @@
-2017 02 26	1650 1800	Illustration          Artwork       Daily                           2017 02 26
+2017 02 26	1940 1950	Illustration          Daily         Illustration                    2017 02 26
+2017 02 26	1630 1700	Design                Identity      Design                          Tollen Collective
+2017 02 26	1420 1545	Interactive           Ancent        Development
+2017 02 26	1650 1800	Illustration          Artwork       Illustration                    2017 02 26
 2017 02 25	1315 1415	Design                Branding      Design                          Sonicode
-2017 02 25	1140 1240	Interactive           Omos          Development	                                           Shifting Mechanic
+2017 02 25	1140 1240	Interactive           Omos          Development                                            Shifting Mechanic
 2017 02 24	2040 2140	Illustration          Artwork       Illustration                    岩窟
 2017 02 24	1905 2014	Audio                 Volyne        Composition                     Vocolium
 2017 02 23	2050 2225	Illustration          Daily         Illustration                    2017 02 23
