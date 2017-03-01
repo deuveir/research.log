@@ -7,7 +7,7 @@
 2017 02 25	1315 1415	Design                Branding      Design                          Sonicode
 2017 02 25	1140 1240	Interactive           Omos          Development                                            Shifting Mechanic
 2017 02 24	2040 2140	Illustration          Artwork       Illustration                    岩窟
-2017 02 24	1905 2014	Audio                 Volyne        Composition                     Vocolium
+2017 02 24	1905 2015	Audio                 Volyne        Composition                     Vocolium
 2017 02 23	2050 2225	Illustration          Daily         Illustration                    2017 02 23
 2017 02 22	2000 2150	Audio                 Volyne        Composition                     Vocolium
 2017 02 21	2145 2230	Audio                 Volyne        Composition                     Vocolium
@@ -15,11 +15,11 @@
 2017 02 19	2050 2130	Illustration          Daily         Illustration                    2017 02 19
 2017 02 19	1800 1840	Interactive           Omos          Development                                            Fisheye Shader & Level 01
 2017 02 19	1630 1740	Audio                 Volyne        Composition                     Omos OST
-2017 02 18	1460 1715	Interactive           Omos          Design                                                 Texture + Audio Design
+2017 02 18	1500 1715	Interactive           Omos          Design                                                 Texture + Audio Design
 2017 02 18	1200 1340	Audio                 Volyne        Composition                     Omos OST
 2017 02 18	1150 1250	Interactive           Omos          Development                                            Level 01 & Shifting Mechanic
 2017 02 17	1920 1945	Audio                 Volyne        Design                          Vocolium Cover
-2017 02 17	1750 1842	Audio                 Volyne        Composition                     Vocolium
+2017 02 17	1750 1840	Audio                 Volyne        Composition                     Vocolium
 2017 02 17	1605 1730	Illustration          Artwork       Illustration                    Stratte
 2017 02 16	1925 2120	Design                Msc           Design                          Identity Products
 2017 02 16	1700 1740	Audio                 Volyne        Composition                     Vocolium
@@ -45,7 +45,7 @@
 2017 02 04	2120 2150	Audio                 Volyne        Composition                     Nocoria
 2017 02 03	1845 2115	Audio                 Volyne        Composition                     Nocoria
 2017 02 03	1630 1645	Audio                 Volyne        Composition                     Nocoria
-2017 02 02	2130 2204	Audio                 Volyne        Design                          Nocoria Cover
+2017 02 02	2130 2205	Audio                 Volyne        Design                          Nocoria Cover
 2017 02 02	2020 2120	Audio                 Volyne        Composition                     Nocoria
 2017 02 01	2235 2250	Illustration          Lensse        Illustration
 2017 02 01	2215 2235	Illustration          Lensse        Illustration                    Suminagashi V2
