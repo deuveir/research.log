@@ -1,3 +1,4 @@
+2017 02 24	1130 1230	Interactive           Omos          Development                                            Panel Triggers
 2017 02 03	2000 2030	Web                   Teneyes       Development                     Home
 2017 02 03	1900 2000	Audio                 Volyne        Composition                     Vocolium
 2017 02 02	2100 2110	Illustration          Artwork       Design                          Clover
