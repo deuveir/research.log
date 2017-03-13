@@ -1,118 +1,118 @@
-DATE        TIME      SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
+DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
-2017 03 12  1345 1445 Illustration          Artwork       Illustration                    Figure 01
-2017 03 12  1110 1230 Illustration          Artwork       Illustration                    構造
-2017 03 11  1940 2115 Illustration          Artwork       Illustration                    島
-2017 03 11  1610 1630 Design                Glyphs        Design                          Omos
-2017 03 11  1330 1430 Interactive           Omos          Composition                                           Sound Design + Integration
-2017 03 11  1130 1230 Interactive           Omos          Development                                           Buttons
-2017 03 10  1830 1915 Illustration          Reven         Illustration
-2017 03 09  2200 2300 Illustration          Reven         Illustration                    Visitor
-2017 03 08  2140 2240 Illustration          Reven         Illustration                    Channel
-2017 03 08  2040 2140 Audio                 Volyne        Composition                     Vocolium
-2017 03 07  2050 2150 Design                Branding      Design                          Gwaith
-2017 03 07  1450 1530 Illustration          Sketchbook    Illustration
-2017 03 06  2130 2200 Design                Branding      Design                          Gwaith
-2017 03 06  2030 2130 Audio                 Volyne        Composition                     Vocolium
+2017 03 12  1345 1445  Illustration          Artwork       Illustration                    Figure 01
+2017 03 12  1110 1230  Illustration          Artwork       Illustration                    構造
+2017 03 11  1940 2115  Illustration          Artwork       Illustration                    島
+2017 03 11  1610 1630  Design                Glyphs        Design                          Omos
+2017 03 11  1330 1430  Interactive           Omos          Composition                                           Sound Design + Integration
+2017 03 11  1130 1230  Interactive           Omos          Development                                           Buttons
+2017 03 10  1830 1915  Illustration          Reven         Illustration
+2017 03 09  2200 2300  Illustration          Reven         Illustration                    Visitor
+2017 03 08  2140 2240  Illustration          Reven         Illustration                    Channel
+2017 03 08  2040 2140  Audio                 Volyne        Composition                     Vocolium
+2017 03 07  2050 2150  Design                Branding      Design                          Gwaith
+2017 03 07  1450 1530  Illustration          Sketchbook    Illustration
+2017 03 06  2130 2200  Design                Branding      Design                          Gwaith
+2017 03 06  2030 2130  Audio                 Volyne        Composition                     Vocolium
 2017 03 05
-2017 03 04  1130 1230 Interactive           Omos          Development                                            Panel Triggers
-2017 03 03  2000 2030 Web                   Teneyes       Development                     Home
-2017 03 03  1900 2000 Audio                 Volyne        Composition                     Vocolium
-2017 03 02  2100 2110 Illustration          Artwork       Design                          Clover
-2017 03 01  2050 2150 Audio                 Volyne        Composition                     Ancent OST
+2017 03 04  1130 1230  Interactive           Omos          Development                                            Panel Triggers
+2017 03 03  2000 2030  Web                   Teneyes       Development                     Home
+2017 03 03  1900 2000  Audio                 Volyne        Composition                     Vocolium
+2017 03 02  2100 2110  Illustration          Artwork       Design                          Clover
+2017 03 01  2050 2150  Audio                 Volyne        Composition                     Ancent OST
 2017 02 28
 2017 02 27
-2017 02 26  1940 1950 Illustration          Daily         Illustration                    2017 02 26
-2017 02 26  1630 1700 Design                Identity      Design                          Tollen Collective
-2017 02 26  1420 1545 Interactive           Ancent        Development
-2017 02 26  1650 1800 Illustration          Artwork       Illustration                    2017 02 26
-2017 02 25  1315 1415 Design                Branding      Design                          Sonicode
-2017 02 25  1140 1240 Interactive           Omos          Development                                            Shifting Mechanic
-2017 02 24  2040 2140 Illustration          Artwork       Illustration                    岩窟
-2017 02 24  1905 2015 Audio                 Volyne        Composition                     Vocolium
-2017 02 23  2050 2225 Illustration          Daily         Illustration                    2017 02 23
-2017 02 22  2000 2150 Audio                 Volyne        Composition                     Vocolium
-2017 02 21  2145 2230 Audio                 Volyne        Composition                     Vocolium
+2017 02 26  1940 1950  Illustration          Daily         Illustration                    2017 02 26
+2017 02 26  1630 1700  Design                Identity      Design                          Tollen Collective
+2017 02 26  1420 1545  Interactive           Ancent        Development
+2017 02 26  1650 1800  Illustration          Artwork       Illustration                    2017 02 26
+2017 02 25  1315 1415  Design                Branding      Design                          Sonicode
+2017 02 25  1140 1240  Interactive           Omos          Development                                            Shifting Mechanic
+2017 02 24  2040 2140  Illustration          Artwork       Illustration                    岩窟
+2017 02 24  1905 2015  Audio                 Volyne        Composition                     Vocolium
+2017 02 23  2050 2225  Illustration          Daily         Illustration                    2017 02 23
+2017 02 22  2000 2150  Audio                 Volyne        Composition                     Vocolium
+2017 02 21  2145 2230  Audio                 Volyne        Composition                     Vocolium
 2017 02 20
-2017 02 19  2050 2130 Illustration          Daily         Illustration                    2017 02 19
-2017 02 19  1800 1840 Interactive           Omos          Development                                            Fisheye Shader
-2017 02 19  1630 1740 Audio                 Volyne        Composition                     Omos OST
-2017 02 18  1500 1715 Interactive           Omos          Design                                                 Textures
-2017 02 18  1200 1340 Audio                 Volyne        Composition                     Omos OST
-2017 02 18  1150 1250 Interactive           Omos          Development                                            Shifting Mechanic
-2017 02 17  1920 1945 Audio                 Volyne        Design                          Vocolium Cover
-2017 02 17  1750 1840 Audio                 Volyne        Composition                     Vocolium
-2017 02 17  1605 1730 Illustration          Artwork       Illustration                    Stratte
-2017 02 16  1925 2120 Design                Msc           Design                          Identity Products
-2017 02 16  1700 1740 Audio                 Volyne        Composition                     Vocolium
-2017 02 16  1305 1530 Illustration          Daily         Illustration                    2017 02 16
+2017 02 19  2050 2130  Illustration          Daily         Illustration                    2017 02 19
+2017 02 19  1800 1840  Interactive           Omos          Development                                            Fisheye Shader
+2017 02 19  1630 1740  Audio                 Volyne        Composition                     Omos OST
+2017 02 18  1500 1715  Interactive           Omos          Design                                                 Textures
+2017 02 18  1200 1340  Audio                 Volyne        Composition                     Omos OST
+2017 02 18  1150 1250  Interactive           Omos          Development                                            Shifting Mechanic
+2017 02 17  1920 1945  Audio                 Volyne        Design                          Vocolium Cover
+2017 02 17  1750 1840  Audio                 Volyne        Composition                     Vocolium
+2017 02 17  1605 1730  Illustration          Artwork       Illustration                    Stratte
+2017 02 16  1925 2120  Design                Msc           Design                          Identity Products
+2017 02 16  1700 1740  Audio                 Volyne        Composition                     Vocolium
+2017 02 16  1305 1530  Illustration          Daily         Illustration                    2017 02 16
 2017 02 15
-2017 02 14  1850 2000 Illustration          Daily         Illustration                    2017 02 14
-2017 02 13  2220 0000 Illustration          Sketchbook    Illustration
-2017 02 12  2105 2220 Illustration          Sketchbook    Illustration
-2017 02 12  1400 1430 Design                Branding      Design                          Volyne
-2017 02 12  1030 1100 Illustration          Processing    Illustration                    Trysotype
-2017 02 11  2330 2400 Illustration          Processing    Illustration                    Trysotope
-2017 02 11  2100 2140 Audio                 Volyne        Composition                     Vocolium
-2017 02 10  2050 2120 Audio                 Volyne        Composition                     Vocolium
-2017 02 10  1840 1925 Illustration          Daily         Illustration                    2017 02 10
-2017 02 10  1430 1525 Illustration          Sketchbook    Illustration
+2017 02 14  1850 2000  Illustration          Daily         Illustration                    2017 02 14
+2017 02 13  2220 0000  Illustration          Sketchbook    Illustration
+2017 02 12  2105 2220  Illustration          Sketchbook    Illustration
+2017 02 12  1400 1430  Design                Branding      Design                          Volyne
+2017 02 12  1030 1100  Illustration          Processing    Illustration                    Trysotype
+2017 02 11  2330 2400  Illustration          Processing    Illustration                    Trysotope
+2017 02 11  2100 2140  Audio                 Volyne        Composition                     Vocolium
+2017 02 10  2050 2120  Audio                 Volyne        Composition                     Vocolium
+2017 02 10  1840 1925  Illustration          Daily         Illustration                    2017 02 10
+2017 02 10  1430 1525  Illustration          Sketchbook    Illustration
 2017 02 09
 2017 02 08
 2017 02 07
-2017 02 06  1700 1800 Interactive           Omos          Development	
-2017 02 06  1600 1630 Lifestyle             Nest          Maintenance                                            Organized Shelves
-2017 02 05  2125 2145 Audio                 Volyne        Composition                     Nocoria
-2017 02 04  2320 2355 Audio                 Volyne        Composition                     Nocoria
-2017 02 04  2120 2150 Audio                 Volyne        Composition                     Nocoria
-2017 02 03  1845 2115 Audio                 Volyne        Composition                     Nocoria
-2017 02 03  1630 1645 Audio                 Volyne        Composition                     Nocoria
-2017 02 02  2130 2205 Audio                 Volyne        Design                          Nocoria Cover
-2017 02 02  2020 2120 Audio                 Volyne        Composition                     Nocoria
-2017 02 01  2235 2250 Illustration          Lensse        Illustration
-2017 02 01  2215 2235 Illustration          Lensse        Illustration                    Suminagashi V2
-2017 02 01  1720 1810 Audio                 Volyne        Composition                     Nocoria
-2017 01 31  1750 1855 Audio                 Volyne        Composition                     Nocoria
-2017 01 31  1200 1500 Illustration          Sketchbook    Illustration
-2017 01 31  0830 0940 Illustration          Sketchbook    Illustration
-2017 01 30  1450 1530 Illustration          Sketchbook    Illustration
-2017 01 29  1615 1710 Illustration          Sketchbook    Illustration
-2017 01 28  1530 1820 Illustration          Channel       Illustration                    Cell
-2017 01 27  2110 2115 Photography           Los Angeles   Photography                     2017 01 27
-2017 01 27  1920 2110 Illustration          Daily         Illustration                    2017 01 27
+2017 02 06  1700 1800  Interactive           Omos          Development	
+2017 02 06  1600 1630  Lifestyle             Nest          Maintenance                                            Organized Shelves
+2017 02 05  2125 2145  Audio                 Volyne        Composition                     Nocoria
+2017 02 04  2320 2355  Audio                 Volyne        Composition                     Nocoria
+2017 02 04  2120 2150  Audio                 Volyne        Composition                     Nocoria
+2017 02 03  1845 2115  Audio                 Volyne        Composition                     Nocoria
+2017 02 03  1630 1645  Audio                 Volyne        Composition                     Nocoria
+2017 02 02  2130 2205  Audio                 Volyne        Design                          Nocoria Cover
+2017 02 02  2020 2120  Audio                 Volyne        Composition                     Nocoria
+2017 02 01  2235 2250  Illustration          Lensse        Illustration
+2017 02 01  2215 2235  Illustration          Lensse        Illustration                    Suminagashi V2
+2017 02 01  1720 1810  Audio                 Volyne        Composition                     Nocoria
+2017 01 31  1750 1855  Audio                 Volyne        Composition                     Nocoria
+2017 01 31  1200 1500  Illustration          Sketchbook    Illustration
+2017 01 31  0830 0940  Illustration          Sketchbook    Illustration
+2017 01 30  1450 1530  Illustration          Sketchbook    Illustration
+2017 01 29  1615 1710  Illustration          Sketchbook    Illustration
+2017 01 28  1530 1820  Illustration          Channel       Illustration                    Cell
+2017 01 27  2110 2115  Photography           Los Angeles   Photography                     2017 01 27
+2017 01 27  1920 2110  Illustration          Daily         Illustration                    2017 01 27
 2017 01 26
 2017 01 25
-2017 01 24  1730 1845 Design                Branding      Design                          Sonicode
-2017 01 23  1935 2030 Illustration          Daily         Illustration                    2017 01 23
-2017 01 23  1820 1905 Design                Branding      Design                          Sonar
-2017 01 22  1540 1630 Illustration          Daily         Illustration                    2017 01 22
-2017 01 22  1300 1325 Design                Branding      Design                          Tenel
-2017 01 21  1620 1700 Illustration          Daily         Illustration                    2017 01 21
+2017 01 24  1730 1845  Design                Branding      Design                          Sonicode
+2017 01 23  1935 2030  Illustration          Daily         Illustration                    2017 01 23
+2017 01 23  1820 1905  Design                Branding      Design                          Sonar
+2017 01 22  1540 1630  Illustration          Daily         Illustration                    2017 01 22
+2017 01 22  1300 1325  Design                Branding      Design                          Tenel
+2017 01 21  1620 1700  Illustration          Daily         Illustration                    2017 01 21
 2017 01 20
-2017 01 19  1340 1500 Illustration          Lensse        Illustration                    Suminagashi
-2017 01 19  1200 1326 Illustration          Daily         Illustration                    2017 01 19
-2017 01 18  1700 1930 Illustration          Channel       Illustration                    Tsunami
-2017 01 18  1530 1600 Audio                 Volyne        Composition                     Nocoria
-2017 01 17  2030 2100 Artwork               Daily         Illustration                    2017 01 17
-2017 01 17  1730 1830 Audio                 Volyne        Composition                     Nocoria
+2017 01 19  1340 1500  Illustration          Lensse        Illustration                    Suminagashi
+2017 01 19  1200 1326  Illustration          Daily         Illustration                    2017 01 19
+2017 01 18  1700 1930  Illustration          Channel       Illustration                    Tsunami
+2017 01 18  1530 1600  Audio                 Volyne        Composition                     Nocoria
+2017 01 17  2030 2100  Artwork               Daily         Illustration                    2017 01 17
+2017 01 17  1730 1830  Audio                 Volyne        Composition                     Nocoria
 2017 01 16
-2017 01 15  1700 1900 Illustration          Sketchbook    Illustration
+2017 01 15  1700 1900  Illustration          Sketchbook    Illustration
 2017 01 14
-2017 01 13  1730 1900 Lifestyle             Nest          Maintenance                                            Organized Desk
-2017 01 12  2130 2200 Artwork               Daily         Illustration                    2017 01 12
-2017 01 11  2000 2140 Artwork               Daily         Illustration                    2017 01 11
-2017 01 10  0830 0900 Artwork               Daily         Illustration                    2017 01 10
-2017 01 09  2130 2230 Artwork               Daily         Illustration                    2017 01 09
-2017 01 08  2100 2130 Audio                 Volyne        Composition                     Nocoria
-2017 01 07  2100 2150 Artwork               Daily         Illustration                    2017 01 07
-2017 01 06  1030 1150 Illustration          Lensse        Illustration                    Xerrox
-2017 01 05  1130 1200 Design                Branding      Design                          Tollen
-2017 01 04  1930 2030 Artwork               Daily         Illustration                    2017 01 04
-2017 01 03  1930 2030 Artwork               Daily         Illustration                    2017 01 03
-2017 01 03  1000 1030 Propaganda            Methlab       Design
-2017 01 02  0830 0900 Branding              Tumblr        Design
-2017 01 01  2300 2330 Illustration          Daily         Illustration                    2016 01 01
-2017 01 01  1800 1830 Research              Horaire       Development
-2017 01 01  1700 1730 Photography           Iceland       Photography                     Day 1                  Re-edited Day 1 Photos
-2017 01 01  0830 0900 Illustration          Lensse        Development
-2017 01 01  0000 0010 Research              Horaire       Creation
+2017 01 13  1730 1900  Lifestyle             Nest          Maintenance                                            Organized Desk
+2017 01 12  2130 2200  Artwork               Daily         Illustration                    2017 01 12
+2017 01 11  2000 2140  Artwork               Daily         Illustration                    2017 01 11
+2017 01 10  0830 0900  Artwork               Daily         Illustration                    2017 01 10
+2017 01 09  2130 2230  Artwork               Daily         Illustration                    2017 01 09
+2017 01 08  2100 2130  Audio                 Volyne        Composition                     Nocoria
+2017 01 07  2100 2150  Artwork               Daily         Illustration                    2017 01 07
+2017 01 06  1030 1150  Illustration          Lensse        Illustration                    Xerrox
+2017 01 05  1130 1200  Design                Branding      Design                          Tollen
+2017 01 04  1930 2030  Artwork               Daily         Illustration                    2017 01 04
+2017 01 03  1930 2030  Artwork               Daily         Illustration                    2017 01 03
+2017 01 03  1000 1030  Propaganda            Methlab       Design
+2017 01 02  0830 0900  Branding              Tumblr        Design
+2017 01 01  2300 2330  Illustration          Daily         Illustration                    2016 01 01
+2017 01 01  1800 1830  Research              Horaire       Development
+2017 01 01  1700 1730  Photography           Iceland       Photography                     Day 1                  Re-edited Day 1 Photos
+2017 01 01  0830 0900  Illustration          Lensse        Development
+2017 01 01  0000 0010  Research              Horaire       Creation
