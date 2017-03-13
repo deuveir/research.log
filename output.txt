@@ -1,3 +1,7 @@
+DATE        TIME      SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
+
+2017 03 12	1345 1445	Illustration          Artwork       Illustration                    Figure 01
+2017 03 12	1110 1230	Illustration          Artwork       Illustration                    構造
 2017 03 11	1940 2115	Illustration          Artwork       Illustration                    島
 2017 03 11	1610 1630	Design                Glyphs        Design                          Omos
 2017 03 11	1330 1430	Interactive           Omos          Composition                                           Sound Design + Integration
