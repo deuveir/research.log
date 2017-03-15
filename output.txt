@@ -1,6 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
-2017 03 14	2020 2200  Illustration          Artwork       Illustration                    市
+2017 03 14  2020 2200  Illustration          Artwork       Illustration                    市
 2017 03 13  2010 2110  Illustration          Artwork       Illustration                    Portrait
 2017 03 13  1825 1925  Illustration          Artwork       Illustration                    塔
 2017 03 12  1345 1445  Illustration          Artwork       Illustration                    Figure 01
