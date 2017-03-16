@@ -1,9 +1,11 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 03 15  2220 2240  Audio                 Volyne        Design                          Omos OST Cover
+2017 03 15  2115 2215  Audio                 Volyne        Composition                     Omos OST
 2017 03 14  2020 2200  Illustration          Artwork       Illustration                    市
-2017 03 13  2010 2110  Illustration          Artwork       Illustration                    Portrait
+2017 03 13  2010 2110  Illustration          Artwork       Illustration                    Portrait I
 2017 03 13  1825 1925  Illustration          Artwork       Illustration                    塔
-2017 03 12  1345 1445  Illustration          Artwork       Illustration                    Figure 01
+2017 03 12  1345 1445  Illustration          Artwork       Illustration                    Figure I
 2017 03 12  1110 1230  Illustration          Artwork       Illustration                    構造
 2017 03 11  1940 2115  Illustration          Artwork       Illustration                    島
 2017 03 11  1610 1630  Design                Glyphs        Design                          Omos
