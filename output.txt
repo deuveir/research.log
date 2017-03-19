@@ -1,5 +1,8 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 03 18  2100 2150  Audio                 Volyne        Compostion                      Omos OST
+2017 03 18  1300 1400  Audio                 Volyne        Compostion                      Omos OST
+2017 03 18  1140 1240  Interactive           Omos          Development                                           Buttons & Sound Design
 2017 03 17  2130 2240  Audio                 Volyne        Composition                     Omos OST
 2017 03 16
 2017 03 15  2220 2240  Audio                 Volyne        Design                          Omos OST Cover
