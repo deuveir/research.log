@@ -1,6 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
-2017 03 20  2030 2130  Audio                 Volyne        Compositon                      Mona
+2017 03 20  2030 2130  Audio                 Volyne        Compositon                      Omos OST
 2017 03 20  1740 1940  Audio                 Mixtapes      Curation                        Phore
 2017 03 19
 2017 03 18  2100 2150  Audio                 Volyne        Compostion                      Omos OST
