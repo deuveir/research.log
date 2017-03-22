@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 03 21  2120 2220  Illustration          Artwork       Illustration                    NOUVION
 2017 03 20  2030 2130  Audio                 Volyne        Compositon                      Omos OST
 2017 03 20  1740 1940  Audio                 Mixtapes      Curation                        Phore
 2017 03 19
