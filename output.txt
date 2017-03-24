@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 03 23
 2017 03 22  2120 2200  Design                Branding      Design                          ЧОЛ
 2017 03 22  2000 2100  Illustration          Artwork       Illustration                    Untitled 01
 2017 03 21  2120 2220  Illustration          Artwork       Illustration                    NOUVION
