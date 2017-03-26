@@ -1,5 +1,8 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 03 25  1730 1900  Design                Typography    Design                          Attica Regular
+2017 03 25  1330 1630  Illustration          Artwork       Illustration                    mu
+2017 03 25  1130 1230  Interactive           Omos          Development                                           Animations
 2017 03 24  1950 2010  Design                Branding      Design                          Mogra
 2017 03 24  1920 1945  Interactive           Omos          Composition                                           Sound Design
 2017 03 23
