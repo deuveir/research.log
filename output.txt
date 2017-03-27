@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 03 26
 2017 03 25  1730 1900  Design                Typography    Design                          Attica Regular
 2017 03 25  1330 1630  Illustration          Artwork       Illustration                    mu
 2017 03 25  1130 1230  Interactive           Omos          Development                                           Animations
