@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 03 27  1730 1830  Design                Branding      Design                          有形                  Brand Logotype for Orihaus
+2017 03 27  1130 1300  Interactive           Omos          Development                                           Animations + Block Areas
 2017 03 26
 2017 03 25  1730 1900  Design                Typography    Design                          Attica Regular
 2017 03 25  1330 1630  Illustration          Artwork       Illustration                    mu
