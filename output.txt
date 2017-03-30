@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 03 29  1630 1700  Design                Branding      Design                          UUL                   Brand Logotype for Orihaus
+2017 03 29  1300 1400  Illustration          Artwork       Illustration                    ta
 2017 03 28  1335 1435  Illustration          Artwork       Illustration                    Untitled 02
 2017 03 27  2120 2220  Audio                 Volyne        Composition                     Omos OST
 2017 03 27  1730 1830  Design                Branding      Design                          有形                  Brand Logotype for Orihaus
@@ -8,7 +10,6 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 03 25  1730 1900  Design                Typography    Design                          Attica Regular
 2017 03 25  1330 1630  Illustration          Artwork       Illustration                    mu
 2017 03 25  1130 1230  Interactive           Omos          Development                                           Animations
-2017 03 24  1950 2010  Design                Branding      Design                          Mogra
 2017 03 24  1920 1945  Interactive           Omos          Composition                                           Sound Design
 2017 03 23
 2017 03 22  2120 2200  Design                Branding      Design                          ЧОЛ
