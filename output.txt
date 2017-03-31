@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 03 30
 2017 03 29  1630 1700  Design                Branding      Design                          UUL                   Brand Logotype for Orihaus
 2017 03 29  1300 1400  Illustration          Artwork       Illustration                    ta
 2017 03 28  1335 1435  Illustration          Artwork       Illustration                    Untitled 02
