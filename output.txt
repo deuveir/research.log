@@ -1,5 +1,9 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 04 01  1910 2000  Interactive           Omos          Design                                                UI Design
+2017 04 01  1340 1430  Illustration          Artwork       Illustration                    Portrait II
+2017 04 01  1240 1340  Iteractive            Omos          Develpment                                            UI Functionality
+2017 04 01  1110 1200  Illustration          Artwork       Illustration                    Portrait II
 2017 03 31  1300 1330  Interactive           Omos          Development                                           Block Areas
 2017 03 31  0935 1000  Design                Branding      Design                          Meta                  Brand Logotype for Orihaus
 2017 03 30
