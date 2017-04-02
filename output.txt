@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 04 03
+2017 04 02
 2017 04 01  1910 2000  Interactive           Omos          Design                                                UI Design
 2017 04 01  1340 1430  Illustration          Artwork       Illustration                    Portrait II
 2017 04 01  1240 1340  Iteractive            Omos          Develpment                                            UI Functionality
