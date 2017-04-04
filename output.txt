@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 04 04  2320 2340  Photography           Paris         Photography                     Day 1
 2017 04 03
 2017 04 02
 2017 04 01  1910 2000  Interactive           Omos          Design                                                UI Design
