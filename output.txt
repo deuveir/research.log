@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 04 12
 2017 04 11  0900 0930  Design                Branding      Design                          炭素                   Brand Logotype for Orihaus
 2017 04 10  1900 1940  Illustration          Artwork       Illustration                    Scientist I
 2017 04 10  1750 1840  Illustration          Artwork       Illustration                    Scientist I
