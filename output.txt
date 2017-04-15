@@ -1,5 +1,9 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 04 14  1620 1720  Audio                 Volyne        Composition                     Vocolia
+2017 04 14  1510 1540  Audio                 Volyne        Design                          Vocolia Cover
+2017 04 14  1400 1500  Audio                 Volyne        Composition                     Vocolia
+2017 04 14  1230 1330  Interactive           Omos          Development                                           UI Functionality
 2017 04 13  1900 2000  Audio                 Volyne        Compostion                      Vocolia
 2017 04 13  1720 1820  Illustration          Artwork       Illustration                    Scientist II
 2017 04 12
