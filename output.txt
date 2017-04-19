@@ -1,6 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
-2017 04 17  2000 2040  Design                Branding      Design                          Xerrox                Brand Logotype for Orihaus
+2017 04 17  2000 2040  Design                Branding      Design                          Zeallough             Brand Logotype for Orihaus
 2017 04 16  1800 1830  Illustration          Artwork       Illustration                    Scientist III
 2017 04 16  0930 1100  Audio                 Volyne        Composition                     Vocolia
 2017 04 15  1820 1850  Illustration          Artwork       Illustration                    Necropolis
@@ -144,7 +144,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 01 23  1935 2030  Illustration          Daily         Illustration                    2017 01 23
 2017 01 23  1820 1905  Design                Branding      Design                          Sonar
 2017 01 22  1540 1630  Illustration          Daily         Illustration                    2017 01 22
-2017 01 22  1300 1325  Design                Branding      Design                          Tenel
+2017 01 22  1300 1325  Design                Branding      Design                          Unie
 2017 01 21  1620 1700  Illustration          Daily         Illustration                    2017 01 21
 2017 01 20
 2017 01 19  1340 1500  Illustration          Lensse        Illustration                    Suminagashi
