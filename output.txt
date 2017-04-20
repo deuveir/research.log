@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 04 19  2110 2210  Audio                 Volyne        Composition                     Vocolia
 2017 04 18  2100 2150  Illustration          Artwork       Illustration                    Scientist III
 2017 04 17  2000 2040  Design                Branding      Design                          Zeallough             Brand Logotype for Orihaus
 2017 04 16  1800 1830  Illustration          Artwork       Illustration                    Scientist III
