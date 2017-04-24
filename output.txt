@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 04 23  2100 2110  Photography           Paris         Photography                     Day 1
+2017 04 23  1225 1335  Audio                 Volyne        Composition                     Senni Market Remix
 2017 04 22  2045 2130  Illustration          Artwork       Illustration                    Untitled 03
 2017 04 22  1100 1200  Interactive           Omos          Development                     UI Functionality
 2017 04 21  1700 1805  Audio                 Volyne        Composition                     Vocolia
