@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 04 26
 2017 04 25
 2017 04 24  2040 2020  Illustration          Artwork       Illustration                    Portrait III
 2017 04 23  2100 2110  Photography           Paris         Photography                     Day 1
