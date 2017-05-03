@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 02
 2017 05 01
 2017 04 30  1720 1745  Audio                 Volyne        Composition                     Senni Market Remix
 2017 04 30  1260 1350  Design                Branding      Design                          Protean               Brand Logotype for Orihaus
