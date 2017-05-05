@@ -1,16 +1,18 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 04  2040 2140  Illustration          Artwork       Illustration                    似顔 II
+2017 05 04  1915 1955  Audio                 Volyne        Composition                     Schwarzschild Radius
 2017 05 03
 2017 05 02
 2017 05 01
 2017 04 30  1720 1745  Audio                 Volyne        Composition                     Senni Market Remix
 2017 04 30  1260 1350  Design                Branding      Design                          Protean               Brand Logotype for Orihaus
-2017 04 29  1425 1550  Illustration          Artwork       Illustration                    Portrait III
+2017 04 29  1425 1550  Illustration          Artwork       Illustration                    似顔 III
 2017 04 28
 2017 04 27
 2017 04 26
 2017 04 25
-2017 04 24  2040 2020  Illustration          Artwork       Illustration                    Portrait III
+2017 04 24  2040 2020  Illustration          Artwork       Illustration                    似顔 III
 2017 04 23  2100 2110  Photography           Paris         Photography                     Day 1
 2017 04 23  1225 1335  Audio                 Volyne        Composition                     Senni Market Remix
 2017 04 22  2045 2130  Illustration          Artwork       Illustration                    Untitled 03
