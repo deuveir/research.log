@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 05  2100 2120  Design                Branding      Design                          Osavox (Radial)
 2017 05 04  2040 2140  Illustration          Artwork       Illustration                    似顔 II
 2017 05 04  1915 1955  Audio                 Volyne        Composition                     Schwarzschild Radius
 2017 05 03
