@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 08  2040 2120  Design                Propaganda    Design                          LA River              School Project
+2017 05 07
 2017 05 06  1520 1615  Illustration          Artwork       Illustration                    Scientist IV
 2017 05 06  1330 1410  Design                Branding      Design                          Synthe                Brand Logotype for Orihaus
 2017 05 06  1130 1230  Interactive           Omos          Development                                           Completers
