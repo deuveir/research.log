@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 12  1900 1940  Illustration          Artwork       Illustration                    New Etka Peak
 2017 05 11  2115 2155  Audio                 Volyne        Composition                     Omos OST
 2017 05 10
 2017 05 09  2040 2140  Audio                 Volyne        Composition                     Omos OST
