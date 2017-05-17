@@ -8,7 +8,6 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 05 10
 2017 05 09  2040 2140  Audio                 Volyne        Composition                     Omos OST
 2017 05 08  2135 2205  Illustration          Artwork       Illustration                    Struct
-2017 05 08  2040 2120  Design                Propaganda    Design                          LA River              School Project
 2017 05 07
 2017 05 06  1520 1615  Illustration          Artwork       Illustration                    Scientist IV
 2017 05 06  1330 1410  Design                Branding      Design                          Synthe                Brand Logotype for Orihaus
