@@ -1,6 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
-2017 05 16  2130 2155  Illustration          Artwork       Illustration                    Alchemy Sketch
+2017 05 17  1920 1935  Illustration          Artwork       Illustration                    Alchemy II
+2017 05 16  2130 2155  Illustration          Artwork       Illustration                    Alchemy I
 2017 05 15
 2017 05 14  1255 1400  Audio                 Volyne        Design                          VISITOR 100 Cover
 2017 05 13
