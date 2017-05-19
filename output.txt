@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 18
 2017 05 17  1920 1935  Illustration          Artwork       Illustration                    Alchemy II
 2017 05 16  2130 2155  Illustration          Artwork       Illustration                    Alchemy I
 2017 05 15
