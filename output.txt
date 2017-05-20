@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 19  2140 2200  Audio                 Volyne        Composition                     Douace OST
 2017 05 18
 2017 05 17  1920 1935  Illustration          Artwork       Illustration                    Alchemy II
 2017 05 16  2130 2155  Illustration          Artwork       Illustration                    Alchemy I
@@ -7,14 +8,14 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 05 14  1255 1400  Audio                 Volyne        Design                          VISITOR 100 Cover
 2017 05 13
 2017 05 12  1900 1940  Illustration          Artwork       Illustration                    New Etka Peak
-2017 05 11  2115 2155  Audio                 Volyne        Composition                     Omos OST
+2017 05 11  2115 2155  Audio                 Volyne        Composition                     Douace OST
 2017 05 10
-2017 05 09  2040 2140  Audio                 Volyne        Composition                     Omos OST
+2017 05 09  2040 2140  Audio                 Volyne        Composition                     Douace OST
 2017 05 08  2135 2205  Illustration          Artwork       Illustration                    Struct
 2017 05 07
 2017 05 06  1520 1615  Illustration          Artwork       Illustration                    Scientist IV
 2017 05 06  1330 1410  Design                Branding      Design                          Synthe                Brand Logotype for Orihaus
-2017 05 06  1130 1230  Interactive           Omos          Development                                           Completers
+2017 05 06  1130 1230  Interactive           Douace        Development                                           Completers
 2017 05 05  2100 2120  Design                Branding      Design                          Osavox (Radial)
 2017 05 04  2040 2140  Illustration          Artwork       Illustration                    似顔 II
 2017 05 04  1915 1955  Audio                 Volyne        Composition                     Schwarzschild Radius
@@ -32,7 +33,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 04 23  2100 2110  Photography           Paris         Photography                     Day 1
 2017 04 23  1225 1335  Audio                 Volyne        Composition                     Senni Market Remix
 2017 04 22  2045 2130  Illustration          Artwork       Illustration                    Untitled 03
-2017 04 22  1100 1200  Interactive           Omos          Development                     UI Functionality
+2017 04 22  1100 1200  Interactive           Douace        Development                     UI Functionality
 2017 04 21  1700 1805  Audio                 Volyne        Composition                     Vocolia
 2017 04 20  2100 2200  Audio                 Volyne        Composition                     Vocolia
 2017 04 19  2110 2210  Audio                 Volyne        Composition                     Vocolia
@@ -45,14 +46,14 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 04 14  1620 1720  Audio                 Volyne        Composition                     Vocolia
 2017 04 14  1510 1540  Audio                 Volyne        Design                          Vocolia Cover
 2017 04 14  1400 1500  Audio                 Volyne        Composition                     Vocolia
-2017 04 14  1230 1330  Interactive           Omos          Development                                           UI Functionality
+2017 04 14  1230 1330  Interactive           Douace        Development                                           UI Functionality
 2017 04 13  1900 2000  Audio                 Volyne        Compostion                      Vocolia
 2017 04 13  1720 1820  Illustration          Artwork       Illustration                    Scientist II
 2017 04 12
 2017 04 11  0900 0930  Design                Branding      Design                          炭素                   Brand Logotype for Orihaus
 2017 04 10  1900 1940  Illustration          Artwork       Illustration                    Scientist I
 2017 04 10  1750 1840  Illustration          Artwork       Illustration                    Scientist I
-2017 04 09  1830 1900  Audio                 Volyne        Composition                     Omos OST
+2017 04 09  1830 1900  Audio                 Volyne        Composition                     Douace OST
 2017 04 08
 2017 04 07
 2017 04 06
@@ -60,47 +61,47 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 04 04  2320 2340  Photography           Paris         Photography                     Day 1
 2017 04 03
 2017 04 02
-2017 04 01  1910 2000  Interactive           Omos          Design                                                UI Design
+2017 04 01  1910 2000  Interactive           Douace        Design                                                UI Design
 2017 04 01  1340 1430  Illustration          Artwork       Illustration                    Portrait II
-2017 04 01  1240 1340  Iteractive            Omos          Develpment                                            UI Functionality
+2017 04 01  1240 1340  Iteractive            Douace        Develpment                                            UI Functionality
 2017 04 01  1110 1200  Illustration          Artwork       Illustration                    Portrait II
-2017 03 31  1300 1330  Interactive           Omos          Development                                           Block Areas
+2017 03 31  1300 1330  Interactive           Douace        Development                                           Block Areas
 2017 03 31  0935 1000  Design                Branding      Design                          Meta                  Brand Logotype for Orihaus
 2017 03 30
 2017 03 29  1630 1700  Design                Branding      Design                          Meta                  Brand Logotype for Orihaus
 2017 03 29  1300 1400  Illustration          Artwork       Illustration                    ta
 2017 03 28  1335 1435  Illustration          Artwork       Illustration                    Untitled 02
-2017 03 27  2120 2220  Audio                 Volyne        Composition                     Omos OST
+2017 03 27  2120 2220  Audio                 Volyne        Composition                     Douace OST
 2017 03 27  1730 1830  Design                Branding      Design                          有形                  Brand Logotype for Orihaus
-2017 03 27  1130 1300  Interactive           Omos          Development                                           Animations & Block Areas
+2017 03 27  1130 1300  Interactive           Douace        Development                                           Animations & Block Areas
 2017 03 26
 2017 03 25  1730 1900  Design                Typography    Design                          Attica Regular
 2017 03 25  1330 1630  Illustration          Artwork       Illustration                    mu
-2017 03 25  1130 1230  Interactive           Omos          Development                                           Animations
-2017 03 24  1920 1945  Interactive           Omos          Composition                                           Sound Design
+2017 03 25  1130 1230  Interactive           Douace        Development                                           Animations
+2017 03 24  1920 1945  Interactive           Douace        Composition                                           Sound Design
 2017 03 23
 2017 03 22  2120 2200  Design                Branding      Design                          ЧОЛ
 2017 03 22  2000 2100  Illustration          Artwork       Illustration                    Untitled 01
 2017 03 21  2120 2220  Illustration          Artwork       Illustration                    NOUVION
-2017 03 20  2030 2130  Audio                 Volyne        Compositon                      Omos OST
+2017 03 20  2030 2130  Audio                 Volyne        Compositon                      Douace OST
 2017 03 20  1740 1940  Audio                 Mixtapes      Curation                        Phore
 2017 03 19
-2017 03 18  2100 2150  Audio                 Volyne        Compostion                      Omos OST
-2017 03 18  1300 1400  Audio                 Volyne        Compostion                      Omos OST
-2017 03 18  1140 1240  Interactive           Omos          Development                                           Buttons & Sound Design
-2017 03 17  2130 2240  Audio                 Volyne        Composition                     Omos OST
+2017 03 18  2100 2150  Audio                 Volyne        Compostion                      Douace OST
+2017 03 18  1300 1400  Audio                 Volyne        Compostion                      Douace OST
+2017 03 18  1140 1240  Interactive           Douace        Development                                           Buttons & Sound Design
+2017 03 17  2130 2240  Audio                 Volyne        Composition                     Douace OST
 2017 03 16
-2017 03 15  2220 2240  Audio                 Volyne        Design                          Omos OST Cover
-2017 03 15  2115 2215  Audio                 Volyne        Composition                     Omos OST
+2017 03 15  2220 2240  Audio                 Volyne        Design                          Douace OST Cover
+2017 03 15  2115 2215  Audio                 Volyne        Composition                     Douace OST
 2017 03 14  2020 2200  Illustration          Artwork       Illustration                    市
 2017 03 13  2010 2110  Illustration          Artwork       Illustration                    Portrait I
 2017 03 13  1825 1925  Illustration          Artwork       Illustration                    塔
 2017 03 12  1345 1445  Illustration          Artwork       Illustration                    Figure I
 2017 03 12  1110 1230  Illustration          Artwork       Illustration                    構造
 2017 03 11  1940 2115  Illustration          Artwork       Illustration                    島
-2017 03 11  1610 1630  Design                Glyphs        Design                          Omos
-2017 03 11  1330 1430  Interactive           Omos          Composition                                           Sound Design + Integration
-2017 03 11  1130 1230  Interactive           Omos          Development                                           Buttons
+2017 03 11  1610 1630  Design                Glyphs        Design                          Douace
+2017 03 11  1330 1430  Interactive           Douace        Composition                                           Sound Design + Integration
+2017 03 11  1130 1230  Interactive           Douace        Development                                           Buttons
 2017 03 10  1830 1915  Illustration          Reven         Illustration
 2017 03 09  2200 2300  Illustration          Reven         Illustration                    Visitor
 2017 03 08  2140 2240  Illustration          Reven         Illustration                    Channel
@@ -110,7 +111,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 03 06  2130 2200  Design                Branding      Design                          Gwaith
 2017 03 06  2030 2130  Audio                 Volyne        Composition                     Vocolium
 2017 03 05
-2017 03 04  1130 1230  Interactive           Omos          Development                                            Panel Triggers
+2017 03 04  1130 1230  Interactive           Douace        Development                                            Panel Triggers
 2017 03 03  2000 2030  Web                   Teneyes       Development                     Home
 2017 03 03  1900 2000  Audio                 Volyne        Composition                     Vocolium
 2017 03 02  2100 2110  Illustration          Artwork       Design                          Clover
@@ -122,7 +123,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 02 26  1420 1545  Interactive           Ancent        Development
 2017 02 26  1650 1800  Illustration          Artwork       Illustration                    2017 02 26
 2017 02 25  1315 1415  Design                Branding      Design                          Sonicode
-2017 02 25  1140 1240  Interactive           Omos          Development                                            Shifting Mechanic
+2017 02 25  1140 1240  Interactive           Douace        Development                                            Shifting Mechanic
 2017 02 24  2040 2140  Illustration          Artwork       Illustration                    岩窟
 2017 02 24  1905 2015  Audio                 Volyne        Composition                     Vocolium
 2017 02 23  2050 2225  Illustration          Daily         Illustration                    2017 02 23
@@ -130,11 +131,11 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 02 21  2145 2230  Audio                 Volyne        Composition                     Vocolium
 2017 02 20
 2017 02 19  2050 2130  Illustration          Daily         Illustration                    2017 02 19
-2017 02 19  1800 1840  Interactive           Omos          Development                                            Fisheye Shader
-2017 02 19  1630 1740  Audio                 Volyne        Composition                     Omos OST
-2017 02 18  1500 1715  Interactive           Omos          Design                                                 Textures
-2017 02 18  1200 1340  Audio                 Volyne        Composition                     Omos OST
-2017 02 18  1150 1250  Interactive           Omos          Development                                            Shifting Mechanic
+2017 02 19  1800 1840  Interactive           Douace        Development                                            Fisheye Shader
+2017 02 19  1630 1740  Audio                 Volyne        Composition                     Douace OST
+2017 02 18  1500 1715  Interactive           Douace        Design                                                 Textures
+2017 02 18  1200 1340  Audio                 Volyne        Composition                     Douace OST
+2017 02 18  1150 1250  Interactive           Douace        Development                                            Shifting Mechanic
 2017 02 17  1920 1945  Audio                 Volyne        Design                          Vocolium Cover
 2017 02 17  1750 1840  Audio                 Volyne        Composition                     Vocolium
 2017 02 17  1605 1730  Illustration          Artwork       Illustration                    Stratte
@@ -155,7 +156,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 02 09
 2017 02 08
 2017 02 07
-2017 02 06  1700 1800  Interactive           Omos          Development	
+2017 02 06  1700 1800  Interactive           Douace        Development	
 2017 02 06  1600 1630  Lifestyle             Nest          Maintenance                                            Organized Shelves
 2017 02 05  2125 2145  Audio                 Volyne        Composition                     Nocoria
 2017 02 04  2320 2355  Audio                 Volyne        Composition                     Nocoria
