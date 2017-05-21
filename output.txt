@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 20  1410 1530  Illustration          Artwork       Illustration                    Concave Sector
 2017 05 19  2140 2200  Audio                 Volyne        Composition                     Douace OST
 2017 05 18
 2017 05 17  1920 1935  Illustration          Artwork       Illustration                    Alchemy II
