@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 22
 2017 05 21  1435 1540  Illustration          Artwork       Illustration                    Roueche
 2017 05 21  1300 1400  Interactive           Douace        Development                     Space I + II Design
 2017 05 20  2015 2115  Interactive           Douace        Development                     Space III Design
