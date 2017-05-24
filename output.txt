@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 23  2120 2220  Illustration          Artwork       Illustration                    Steorit
 2017 05 22
 2017 05 21  1435 1540  Illustration          Artwork       Illustration                    Roueche
 2017 05 21  1300 1400  Interactive           Douace        Development                     Space I + II Design
