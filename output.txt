@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 26  2100 2200  Design                Branding      Design                          Ritual                Brand Logotype for Orihaus
+2017 05 26  1830 1930  Illustration          Artwork       Illustration                    Scientist V
 2017 05 25  2140 2200  Illustration          Artwork       Illustration                    Form Practice
 2017 05 25  2100 2130  Illustration          Artwork       Illustration                    Steorit Trees
 2017 05 24
