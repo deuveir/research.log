@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 05 28  2200 2230  Research              Tests         Development                     почувствовал
 2017 05 27  2220 2300  Design                Branding      Design                          Ritual V2             Brand Logotype for Orihaus
 2017 05 26  2100 2200  Design                Branding      Design                          Ritual V1             Brand Logotype for Orihaus
 2017 05 26  1830 1930  Illustration          Artwork       Illustration                    Scientist V
