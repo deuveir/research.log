@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 05
 2017 06 04
 2017 06 03
 2017 06 02  2000 2040  Audio                 Volyne        Composition                     Phosphoria
