@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 09  2020 2135  Illustration          Artwork       Illustration                    Scientist VII
+2017 06 08  1225 1400  Audio                 Volyne        Composition                     Phosphoria
 2017 06 07  1700 1800  Audio                 Volyne        Composition                     Phosphoria
 2017 06 07  1505 1605  Illustration          Artwork       Illustration                    Cirqereven Formations I
 2017 06 06  1900 1930  Illustration          Artwork       Illustration                    Lunine
