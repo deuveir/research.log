@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 10	1950 2020  Audio                 Volyne        Composition                     Phosphoria
+2017 06 10  1420 1500  Audio                 Volyne        Composition                     Phosphoria
 2017 06 09  2020 2135  Illustration          Artwork       Illustration                    Scientist VII
 2017 06 08  1225 1400  Audio                 Volyne        Composition                     Phosphoria
 2017 06 07  1700 1800  Audio                 Volyne        Composition                     Phosphoria
