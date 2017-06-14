@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 13  2100 2230  Audio                 Volyne        Composition                     Phosphoria
+2017 06 12
 2017 06 11  1400 1440  Audio                 Volyne        Composition                     Phosphoria
 2017 06 10  1950 2020  Audio                 Volyne        Composition                     Phosphoria
 2017 06 10  1420 1500  Audio                 Volyne        Composition                     Phosphoria
