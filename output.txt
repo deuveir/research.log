@@ -1,5 +1,8 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 15  2025 2125  Interactive           Douace        Development                     Spaces
+2017 06 15  1840 1900  Interactive           Douace        Development                     Spaces
+2017 06 15  1705 1755  Illustration          Unie          Illustration                    Parametrical
 2017 06 14  2000 2150  Audio                 Volyne        Composition                     Phosphoria
 2017 06 13  2100 2230  Audio                 Volyne        Composition                     Phosphoria
 2017 06 12
