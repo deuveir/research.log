@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 16  2110 2140  Interactive           Douace        Development                     Spaces
+2017 06 16  1515 1605  Interactive           Douace        Development                     Spaces
 2017 06 15  2025 2125  Interactive           Douace        Development                     Spaces
 2017 06 15  1840 1900  Interactive           Douace        Development                     Spaces
 2017 06 15  1705 1755  Illustration          Unie          Illustration                    Parametrical
