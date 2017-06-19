@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 18
 2017 06 17  1055 1120  Interactive           Douace        Design                          Textures
 2017 06 16  2110 2140  Interactive           Douace        Development                     Spaces
 2017 06 16  1515 1605  Interactive           Douace        Development                     Spaces
