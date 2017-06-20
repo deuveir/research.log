@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 19  2240 2300  Audio                 Volyne        Composition                     Millionth
 2017 06 18
 2017 06 17  1055 1120  Interactive           Douace        Design                          Textures
 2017 06 16  2110 2140  Interactive           Douace        Development                     Spaces
