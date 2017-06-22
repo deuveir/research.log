@@ -1,9 +1,12 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 21  2110 2140  Audio                 Volyne        Composition                     Douace OST
+2017 06 21  1850 2000  Interactive           Douace        Design                                                Textures + Iconography
+2017 06 21  1630 1710  Illustration          Artwork       Illustration                    Scientist VIII
 2017 06 20  1920 2020  Interactive           Douace        Development                     Spaces
 2017 06 19  2240 2300  Audio                 Volyne        Composition                     Millionth
 2017 06 18
-2017 06 17  1055 1120  Interactive           Douace        Design                          Textures
+2017 06 17  1055 1120  Interactive           Douace        Design                                                Textures
 2017 06 16  2110 2140  Interactive           Douace        Development                     Spaces
 2017 06 16  1515 1605  Interactive           Douace        Development                     Spaces
 2017 06 15  2025 2125  Interactive           Douace        Development                     Spaces
