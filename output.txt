@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 22  1500 1700  Interactive           Douace        Design                                                Textures
 2017 06 21  2110 2140  Audio                 Volyne        Composition                     Douace OST
 2017 06 21  1850 2000  Interactive           Douace        Design                                                Textures + Iconography
 2017 06 21  1630 1710  Illustration          Artwork       Illustration                    Scientist VIII
