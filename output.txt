@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 06 26  1505 1620  Illustration          Artwork       Illustration                    Portrait I
 2017 06 25  1950 2130  Interactive           Douace        Development                     Spaces
 2017 06 25  1820 1910  Interactive           Douace        Development                     Spaces
 2017 06 24
