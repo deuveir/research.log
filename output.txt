@@ -1,12 +1,12 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
 2017 06 29  2035 2200  Audio                 Volyne        Composition                     Kao
-2017 06 29  1505 1545  Illustration          Artwork       Illustration                    Portrait IV
-2017 06 28  2035 2115  Illustration          Artwork       Illustration                    Portrait III
+2017 06 29  1505 1545  Illustration          Daily         Illustration                    Portrait IV
+2017 06 28  2035 2115  Illustration          Daily         Illustration                    Portrait III
 2017 06 28  1630 1900  Interactive           Douace        Development                                           Various Improvements
 2017 06 27  1935 2030  Web                   XLA           Development                     Index
-2017 06 27  0955 1105  Illustration          Artwork       Illustration                    Portrait II
-2017 06 26  1505 1620  Illustration          Artwork       Illustration                    Portrait I
+2017 06 27  0955 1105  Illustration          Daily         Illustration                    Portrait II
+2017 06 26  1505 1620  Illustration          Daily         Illustration                    Portrait I
 2017 06 25  1950 2130  Interactive           Douace        Development                     Spaces
 2017 06 25  1820 1910  Interactive           Douace        Development                     Spaces
 2017 06 24
@@ -14,7 +14,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 06 22  1500 1700  Interactive           Douace        Design                                                Textures
 2017 06 21  2110 2140  Audio                 Volyne        Composition                     Douace OST
 2017 06 21  1850 2000  Interactive           Douace        Design                                                Textures + Iconography
-2017 06 21  1630 1710  Illustration          Artwork       Illustration                    Scientist VIII
+2017 06 21  1630 1710  Illustration          Daily         Illustration                    Scientist VIII
 2017 06 20  1920 2020  Interactive           Douace        Development                     Spaces
 2017 06 19  2240 2300  Audio                 Volyne        Composition                     Millionth
 2017 06 18
@@ -30,7 +30,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 06 11  1400 1440  Audio                 Volyne        Composition                     Phosphoria
 2017 06 10  1950 2020  Audio                 Volyne        Composition                     Phosphoria
 2017 06 10  1420 1500  Audio                 Volyne        Composition                     Phosphoria
-2017 06 09  2020 2135  Illustration          Artwork       Illustration                    Scientist VII
+2017 06 09  2020 2135  Illustration          Daily         Illustration                    Scientist VII
 2017 06 08  1225 1400  Audio                 Volyne        Composition                     Phosphoria
 2017 06 07  1700 1800  Audio                 Volyne        Composition                     Phosphoria
 2017 06 07  1505 1605  Illustration          Artwork       Illustration                    Cirqereven Formations I
@@ -39,7 +39,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 06 04
 2017 06 03
 2017 06 02  2000 2040  Audio                 Volyne        Composition                     Phosphoria
-2017 06 02  1800 1855  Illustration          Artwork       Illustration                    Scientist VI
+2017 06 02  1800 1855  Illustration          Daily         Illustration                    Scientist VI
 2017 06 01
 2017 05 31  1930 2030  Audio                 Volyne        Composition                     Phosphoria
 2017 05 30  1900 1930  Audio                 Volyne        Design                          VISITOR 100 Cover
@@ -47,7 +47,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 05 28
 2017 05 27  2220 2300  Design                Branding      Design                          Ritual V2             Brand Logotype for Orihaus
 2017 05 26  2100 2200  Design                Branding      Design                          Ritual V1             Brand Logotype for Orihaus
-2017 05 26  1830 1930  Illustration          Artwork       Illustration                    Scientist V
+2017 05 26  1830 1930  Illustration          Daily         Illustration                    Scientist V
 2017 05 25  2140 2200  Illustration          Artwork       Illustration                    Form Practice
 2017 05 25  2100 2130  Illustration          Artwork       Illustration                    Steorit Trees
 2017 05 24
@@ -70,7 +70,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 05 09  2040 2140  Audio                 Volyne        Composition                     Douace OST
 2017 05 08  2135 2205  Illustration          Artwork       Illustration                    Struct
 2017 05 07
-2017 05 06  1520 1615  Illustration          Artwork       Illustration                    Scientist IV
+2017 05 06  1520 1615  Illustration          Daily         Illustration                    Scientist IV
 2017 05 06  1330 1410  Design                Branding      Design                          Synthe                Brand Logotype for Orihaus
 2017 05 06  1130 1230  Interactive           Douace        Development                                           Completers
 2017 05 05  2100 2120  Design                Branding      Design                          Osavox (Radial)
@@ -94,9 +94,9 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 04 21  1700 1805  Audio                 Volyne        Composition                     Vocolia
 2017 04 20  2100 2200  Audio                 Volyne        Composition                     Vocolia
 2017 04 19  2110 2210  Audio                 Volyne        Composition                     Vocolia
-2017 04 18  2100 2150  Illustration          Artwork       Illustration                    Scientist III
+2017 04 18  2100 2150  Illustration          Daily         Illustration                    Scientist III
 2017 04 17  2000 2040  Design                Branding      Design                          Zeallough             Brand Logotype for Orihaus
-2017 04 16  1800 1830  Illustration          Artwork       Illustration                    Scientist III
+2017 04 16  1800 1830  Illustration          Daily         Illustration                    Scientist III
 2017 04 16  0930 1100  Audio                 Volyne        Composition                     Vocolia
 2017 04 15  1820 1850  Illustration          Artwork       Illustration                    Nocrogole Entrance
 2017 04 15  1300 1340  Design                Branding      Design                          Indus                 Brand Logotype for Orihaus
@@ -105,11 +105,11 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 04 14  1400 1500  Audio                 Volyne        Composition                     Vocolia
 2017 04 14  1230 1330  Interactive           Douace        Development                                           UI Functionality
 2017 04 13  1900 2000  Audio                 Volyne        Compostion                      Vocolia
-2017 04 13  1720 1820  Illustration          Artwork       Illustration                    Scientist II
+2017 04 13  1720 1820  Illustration          Daily         Illustration                    Scientist II
 2017 04 12
 2017 04 11  0900 0930  Design                Branding      Design                          炭素                   Brand Logotype for Orihaus
-2017 04 10  1900 1940  Illustration          Artwork       Illustration                    Scientist I
-2017 04 10  1750 1840  Illustration          Artwork       Illustration                    Scientist I
+2017 04 10  1900 1940  Illustration          Daily         Illustration                    Scientist I
+2017 04 10  1750 1840  Illustration          Daily         Illustration                    Scientist I
 2017 04 09  1830 1900  Audio                 Volyne        Composition                     Douace OST
 2017 04 08
 2017 04 07
@@ -119,9 +119,9 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 04 03
 2017 04 02
 2017 04 01  1910 2000  Interactive           Douace        Design                                                UI Design
-2017 04 01  1340 1430  Illustration          Artwork       Illustration                    Portrait II
+2017 04 01  1340 1430  Illustration          Artwork       Illustration                    Portrait 02
 2017 04 01  1240 1340  Iteractive            Douace        Develpment                                            UI Functionality
-2017 04 01  1110 1200  Illustration          Artwork       Illustration                    Portrait II
+2017 04 01  1110 1200  Illustration          Artwork       Illustration                    Portrait 02
 2017 03 31  1300 1330  Interactive           Douace        Development                                           Block Areas
 2017 03 31  0935 1000  Design                Branding      Design                          Meta                  Brand Logotype for Orihaus
 2017 03 30
@@ -151,7 +151,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 03 15  2220 2240  Audio                 Volyne        Design                          Douace OST Cover
 2017 03 15  2115 2215  Audio                 Volyne        Composition                     Douace OST
 2017 03 14  2020 2200  Illustration          Artwork       Illustration                    市
-2017 03 13  2010 2110  Illustration          Artwork       Illustration                    Portrait I
+2017 03 13  2010 2110  Illustration          Artwork       Illustration                    Portrait 01
 2017 03 13  1825 1925  Illustration          Artwork       Illustration                    塔
 2017 03 12  1345 1445  Illustration          Artwork       Illustration                    Figure I
 2017 03 12  1110 1230  Illustration          Artwork       Illustration                    構造
