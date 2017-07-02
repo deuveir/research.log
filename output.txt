@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 07 02  1500 1700  Interactive           Douace        Development                     Spaces
+2017 07 01  1400 1405  Design                Identity      Design                          オサ
 2017 06 30  1640 1810  Illustration          Artwork       Illustration                    Aviaire
 2017 06 30  1300 1350  Illustration          Daily         Illustration                    Portrait V
 2017 06 29  2035 2200  Audio                 Volyne        Composition                     Kao
