@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 07 04  1635 1730  Interactive           Douace        Development                     Spaces
+2017 07 04  1230 1340  Interactive           Douace        Development                     Spaces
 2017 07 03  2050 2140  Interactive           Douace        Development                     Spaces
 2017 07 03  1650 1700  Design                Identity      Design                          XLA
 2017 07 02  1500 1700  Interactive           Douace        Development                     Spaces
