@@ -1,5 +1,8 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 07 05  2040 2220  Interactive           Douace        Development                     Spaces
+2017 07 05  1820 1920  Web                   XLA           Development                     Index
+2017 07 05  1200 1240  Illustration          Pixel         Illustration                    -1
 2017 07 04  1635 1730  Interactive           Douace        Development                     Spaces
 2017 07 04  1230 1340  Interactive           Douace        Development                     Spaces
 2017 07 03  2050 2140  Interactive           Douace        Development                     Spaces
@@ -12,7 +15,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 06 29  1505 1545  Illustration          Daily         Illustration                    Portrait IV
 2017 06 28  2035 2115  Illustration          Daily         Illustration                    Portrait III
 2017 06 28  1630 1900  Interactive           Douace        Development                                           Various Improvements
-2017 06 27  1935 2030  Web                   XLA           Development                     Index
+2017 06 27  1935 2000  Web                   XLA           Development                     Index
 2017 06 27  0955 1105  Illustration          Daily         Illustration                    Portrait II
 2017 06 26  1505 1620  Illustration          Daily         Illustration                    Portrait I
 2017 06 25  1950 2130  Interactive           Douace        Development                     Spaces
