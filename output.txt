@@ -1,13 +1,14 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
-2017 07 05  2040 2220  Interactive           Douace        Development                     Spaces
-2017 07 05  1820 1920  Web                   XLA           Development                     Index
-2017 07 05  1200 1240  Illustration          Pixel         Illustration                    -1
-2017 07 04  1635 1730  Interactive           Douace        Development                     Spaces
-2017 07 04  1230 1340  Interactive           Douace        Development                     Spaces
-2017 07 03  2050 2140  Interactive           Douace        Development                     Spaces
-2017 07 03  1650 1700  Design                Identity      Design                          XLA
-2017 07 02  1500 1700  Interactive           Douace        Development                     Spaces
+2017 07 05  1230 1330  Illustration          Pixel         Illustration                    1
+2017 07 04  2040 2220  Interactive           Douace        Development                     Spaces
+2017 07 04  1820 1920  Web                   XLA           Development                     Index
+2017 07 04  1200 1240  Illustration          Pixel         Illustration                    0
+2017 07 03  1635 1730  Interactive           Douace        Development                     Spaces
+2017 07 03  1230 1340  Interactive           Douace        Development                     Spaces
+2017 07 02  2050 2140  Interactive           Douace        Development                     Spaces
+2017 07 02  1650 1700  Design                Identity      Design                          XLA
+2017 07 01  1500 1700  Interactive           Douace        Development                     Spaces
 2017 07 01  1400 1405  Design                Identity      Design                          オサ
 2017 06 30  1640 1810  Illustration          Artwork       Illustration                    Aviaire
 2017 06 30  1300 1350  Illustration          Daily         Illustration                    Portrait V
