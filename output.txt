@@ -1,5 +1,7 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 07 07  1420 1520  Interactive           Douace        Development                     Spaces
+2017 07 07  1115 1300  Illustration          Pixel         Illustration                    3
 2017 07 06  2105 2305  Interactive           Douace        Development                     Spaces
 2017 07 06  1955 2100  Web                   XLA           Development                     Index
 2017 07 06  1740 1840  Audio                 Volyne        Composition                     VISITOR 200
