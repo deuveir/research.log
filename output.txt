@@ -1,10 +1,12 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 07 08  2125 2215  Audio                 Volyne        Composition                     MARABU°
+2017 07 08  1320 1430  Illustration          Daily         Illustration                    Scientist VIII
 2017 07 07  1420 1520  Interactive           Douace        Development                     Spaces
 2017 07 07  1115 1300  Illustration          Pixel         Illustration                    3
 2017 07 06  2105 2305  Interactive           Douace        Development                     Spaces
 2017 07 06  1955 2100  Web                   XLA           Development                     Index
-2017 07 06  1740 1840  Audio                 Volyne        Composition                     VISITOR 200
+2017 07 06  1740 1840  Audio                 Volyne        Composition                     MARABU°
 2017 07 06  1215 1245  Illustration          Pixel         Illustration                    2
 2017 07 05  1230 1330  Illustration          Pixel         Illustration                    1
 2017 07 04  2040 2220  Interactive           Douace        Development                     Spaces
