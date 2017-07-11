@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 07 10
 2017 07 09  1800 1850  Illustration          Daily         Illustration                    Portrait V
 2017 07 08  2125 2215  Audio                 Volyne        Composition                     MARABU°
 2017 07 08  1320 1430  Illustration          Daily         Illustration                    Scientist VIII
