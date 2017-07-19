@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 07 18  1345 1330  Audio                 Volyne        Design                          -IA Suite Covers
 2017 07 17  1600 1655  Propaganda            Wallpaper     Illustration                    Tearing
 2017 07 16  1930 2235  Audio                 Volyne        Composition                     Muln
 2017 07 15
