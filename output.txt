@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 07 19  1900 2100  Audio                 Volyne        Composition                     Luvolia
 2017 07 18  1345 1330  Audio                 Volyne        Design                          -IA Suite Covers
 2017 07 17  1600 1655  Propaganda            Wallpaper     Illustration                    Tearing
 2017 07 16  1930 2235  Audio                 Volyne        Composition                     Muln
@@ -9,7 +10,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 07 13  1400 1530  Web                   3D Display    Development                     V1
 2017 07 13  1200 1320  Interactive           I             Development                     Environment
 2017 07 12
-2017 07 11  1845 2000  Audio                 Volyne        Composition                     Kao
+2017 07 11  1845 2000  Audio                 Volyne        Composition                     Luvolia
 2017 07 10
 2017 07 09  1800 1850  Illustration          Daily         Illustration                    Portrait V
 2017 07 08  2125 2215  Audio                 Volyne        Composition                     MARABU°
@@ -32,7 +33,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 07 01  1400 1405  Design                Identity      Design                          オサ
 2017 06 30  1640 1810  Illustration          Artwork       Illustration                    Aviaire
 2017 06 30  1300 1350  Illustration          Daily         Illustration                    Portrait V
-2017 06 29  2035 2200  Audio                 Volyne        Composition                     Kao
+2017 06 29  2035 2200  Audio                 Volyne        Composition                     Luvolia
 2017 06 29  1505 1545  Illustration          Daily         Illustration                    Portrait IV
 2017 06 28  2035 2115  Illustration          Daily         Illustration                    Portrait III
 2017 06 28  1630 1900  Interactive           Douace        Development                                           Various Improvements
@@ -48,7 +49,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 06 21  1850 2000  Interactive           Douace        Design                                                Textures + Iconography
 2017 06 21  1630 1710  Illustration          Daily         Illustration                    Scientist VIII
 2017 06 20  1920 2020  Interactive           Douace        Development                     Spaces
-2017 06 19  2240 2300  Audio                 Volyne        Composition                     Millionth
+2017 06 19  2240 2300  Audio                 Volyne        Composition                     Luvolia
 2017 06 18
 2017 06 17  1055 1120  Interactive           Douace        Design                                                Textures
 2017 06 16  2110 2140  Interactive           Douace        Development                     Spaces
