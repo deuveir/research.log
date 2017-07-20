@@ -131,7 +131,7 @@ DATE        TIME       SUBSECTION            PROJECT       TASK                 
 2017 04 17  2000 2040  Design                Branding      Design                          Zeallough             Brand Logotype for Orihaus
 2017 04 16  1800 1830  Illustration          Daily         Illustration                    Scientist III
 2017 04 16  0930 1100  Audio                 Volyne        Composition                     Vocolia
-2017 04 15  1820 1850  Illustration          Artwork       Illustration                    Nocrogole Entrance
+2017 04 15  1820 1850  Illustration          Artwork       Illustration                    Nocrola Entrance
 2017 04 15  1300 1340  Design                Branding      Design                          Indus                 Brand Logotype for Orihaus
 2017 04 14  1620 1720  Audio                 Volyne        Composition                     Vocolia
 2017 04 14  1510 1540  Audio                 Volyne        Design                          Vocolia Cover
