@@ -1,5 +1,6 @@
 DATE        TIME       SUBSECTION            PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 07 22  2120 2230  Illustration          Daily         Illustration                    Figure I
 2017 07 21
 2017 07 20
 2017 07 19  1900 2100  Audio                 Volyne        Composition                     Luvolia
