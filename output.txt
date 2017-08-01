@@ -1,5 +1,6 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 07 31  1230 1300  Web                   XLA           Development                     Index
 2017 07 30  1440 1610  Illustration          Artwork       Illustration                    Tiloniths
 2017 07 29  2015 2145  Illustration          Artwork       Illustration                    Nocrola Stations
 2017 07 29  1320 1415  Audio                 Volyne        Composition                     MARABU°
