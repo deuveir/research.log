@@ -1,10 +1,11 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
-
-2017 08 03  1500 1630  Web                   XLA           Development                     Format
+2017 08 03  1950 2030  Illustration          Artwork       Illustration                    Soes Shallow
+2017 08 03  1825 1950  Illustration          Artwork       Illustration                    Ocith Remnant
+2017 08 03  1500 1630  Web                   XLA           Development                                           Format
 2017 08 02  2025 2150  Illustration          Artwork       Illustration                    Ultravisitor Speaks
-2017 08 01  1200 1400  Web                   XLA           Development                     Format
-2017 07 31  1230 1300  Web                   XLA           Development                     Format
+2017 08 01  1200 1400  Web                   XLA           Development                                           Format
+2017 07 31  1230 1300  Web                   XLA           Development                                           Format
 2017 07 30  1440 1610  Illustration          Artwork       Illustration                    Tiloniths
 2017 07 29  2015 2145  Illustration          Artwork       Illustration                    Nocrola Stations
 2017 07 29  1320 1415  Audio                 Volyne        Composition                     MARABU°
@@ -36,12 +37,12 @@ DATE        TIME       SECTOR                PROJECT       TASK                 
 2017 07 07  1420 1520  Interactive           Douace        Development                     Spaces
 2017 07 07  1115 1300  Illustration          Pixel         Illustration                    3
 2017 07 06  2105 2305  Interactive           Douace        Development                     Spaces
-2017 07 06  1955 2100  Web                   XLA           Development                     Format
+2017 07 06  1955 2100  Web                   XLA           Development                                           Format
 2017 07 06  1740 1840  Audio                 Volyne        Composition                     MARABU°
 2017 07 06  1215 1245  Illustration          Pixel         Illustration                    2
 2017 07 05  1230 1330  Illustration          Pixel         Illustration                    1
 2017 07 04  2040 2220  Interactive           Douace        Development                     Spaces
-2017 07 04  1820 1920  Web                   XLA           Development                     Format
+2017 07 04  1820 1920  Web                   XLA           Development                                           Format
 2017 07 04  1200 1240  Illustration          Pixel         Illustration                    0
 2017 07 03  1635 1730  Interactive           Douace        Development                     Spaces
 2017 07 03  1230 1340  Interactive           Douace        Development                     Spaces
