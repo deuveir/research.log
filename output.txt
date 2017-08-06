@@ -1,5 +1,6 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 08 05
 2017 08 04  2000 2100  Illustration          Artwork       Illustration                    Ocith Remnant
 2017 08 03  1950 2030  Illustration          Artwork       Illustration                    Soes Shallow
 2017 08 03  1825 1950  Illustration          Artwork       Illustration                    Ocith Remnant
