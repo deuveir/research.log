@@ -1,5 +1,6 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 08 13  1250 1400  Audio                 Volyne        Composition                     Mayonaka DVD
 2017 08 12  1635 1740  Audio                 Volyne        Composition                     MARABU°
 2017 08 12  1510 1630  Illustration          Artwork       Illustration                    Untitled 04
 2017 08 11  1435 1600  Web                   XLA           Development                                           Pages
