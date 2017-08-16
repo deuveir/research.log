@@ -1,8 +1,9 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 08 15  0835 1100  Audio                 オサ           Composition                     ループ
 2017 08 14  1825 1935  Illustration          Artwork       Illustration                    Some sort of Tree
-2017 08 14  1620 1730  Audio                 オサ           Composition                     小閑
-2017 08 13  1250 1400  Audio                 オサ           Composition                     小閑
+2017 08 14  1620 1730  Audio                 オサ           Composition                     ループ
+2017 08 13  1250 1400  Audio                 オサ           Composition                     ループ
 2017 08 12  1635 1740  Audio                 オサ           Composition                     MARABU°
 2017 08 12  1510 1630  Illustration          Artwork       Illustration                    Untitled 04
 2017 08 11  1435 1600  Web                   XLA           Development                                           Pages
