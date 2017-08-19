@@ -1,5 +1,7 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 08 18  1605 1650  Audio                 オサ           Composition                     ループ
+2017 08 18  1240 1250  Design                Branding      Design                          Night Passage
 2017 08 17  2025 2115  Audio                 オサ           Composition                     ループ
 2017 08 17  1525 1730  Web                   XLA           Development                     Pages
 2017 08 16  2005 2035  Web                   XLA           Development                     Pages
