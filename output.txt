@@ -1,5 +1,6 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 08 21
 2017 08 20
 2017 08 19  1050 1145  Illustration          Artwork       Illustration                    Ocith Remnant
 2017 08 18  1605 1650  Audio                 オサ           Composition                     ループ
