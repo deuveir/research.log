@@ -8,8 +8,8 @@ DATE        TIME       SECTOR                PROJECT       TASK                 
 2017 08 18  1605 1650  Audio                 オサ           Composition                     ループ
 2017 08 18  1240 1250  Design                Branding      Design                          Night Passage
 2017 08 17  2025 2115  Audio                 オサ           Composition                     ループ
-2017 08 17  1525 1730  Web                   XLA           Development                     Pages
-2017 08 16  2005 2035  Web                   XLA           Development                     Pages
+2017 08 17  1525 1730  Web                   XLA           Development                                           Pages
+2017 08 16  2005 2035  Web                   XLA           Development                                           Pages
 2017 08 15  0835 1100  Audio                 オサ           Composition                     ループ
 2017 08 14  1825 1935  Illustration          Artwork       Illustration                    Some sort of Tree
 2017 08 14  1620 1730  Audio                 オサ           Composition                     ループ
