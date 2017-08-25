@@ -1,5 +1,6 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 08 24  1500 1620  Audio                 オサ           Composition                     ループ
 2017 08 23
 2017 08 22  1420 1540  Audio                 オサ           Composition                     ループ
 2017 08 21
