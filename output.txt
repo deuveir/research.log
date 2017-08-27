@@ -1,5 +1,7 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 08 26  0940 1000  Audio                 オサ           Composition                     ループ
+2017 08 26  0820 0855  Design                Typography    Design	                         Hoson Regular
 2017 08 25  2100 2200  Audio                 オサ           Design                          ループ Cover
 2017 08 25  1750 1900  Audio                 オサ           Composition                     ループ
 2017 08 24  1500 1620  Audio                 オサ           Composition                     ループ
