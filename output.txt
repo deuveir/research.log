@@ -1,5 +1,7 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 08 31  2200 2240  Audio                 オサ           Composition                     ループ
+2017 08 30  1420 1450  Web                   XLA           Development                     Pages
 2017 08 29  1830 1930  Audio                 オサ           Composition                     ループ
 2017 08 28
 2017 08 27
