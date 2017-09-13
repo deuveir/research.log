@@ -1,5 +1,6 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 09 12  1930 2020  Design                Branding      Design                          Night Passage
 2017 09 11  2100 2145  Audio                 オサ           Composition                     ループ
 2017 09 10
 2017 09 09
