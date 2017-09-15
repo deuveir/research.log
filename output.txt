@@ -1,5 +1,7 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 09 14  2100 2150  Illustration          Lensse        Illustration                    Leliel
+2017 09 14  1020 1030  Design                Branding      Design                          Consul
 2017 09 13
 2017 09 12  1930 2020  Design                Branding      Design                          Night Passage
 2017 09 11  2100 2145  Audio                 オサ           Composition                     ループ
