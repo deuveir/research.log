@@ -1,5 +1,6 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 09 17
 2017 09 16  1940 2100  Illustration          Lensse        Illustration                    Superscoping
 2017 09 15  1855 1930  Illustration          Daily         Illustration                    Forms I
 2017 09 15  1630 1750  Illustration          Lensse        Illustration                    Scoping
