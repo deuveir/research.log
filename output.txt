@@ -1,5 +1,7 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 09 18  2120 2220  Web                   XLA           Development                                           Backend
+2017 09 18  2020 2105  Web                   XLA           Development                                           Backend
 2017 09 17
 2017 09 16  1940 2100  Illustration          Lensse        Illustration                    Superscoping
 2017 09 15  1855 1930  Illustration          Daily         Illustration                    Forms I
