@@ -1,6 +1,7 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
-2017 09 21  1700 1745  Illustration          Lensse        Illustration                    Clovers on the Moon
+2017 09 22  1410 1510  Audio                 オサ           Composition                     ループ
+2017 09 21  1800 1845  Illustration          Lensse        Illustration                    Clovers on the Moon
 2017 09 21  1740 1800  Web                   XLA           Creation	
 2017 09 20  2120 2240  Web                   XLA           Development                                           Backend
 2017 09 20  1950 2100  Web                   XLA           Development                                           Backend
