@@ -1,5 +1,6 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 09 28
 2017 09 27  2130 2230  Video                 Night Passage Editing
 2017 09 26
 2017 09 25
