@@ -1,5 +1,6 @@
 DATE        TIME       SECTOR                PROJECT       TASK                            TITLE                 DESCRIPTION
 
+2017 09 07
 2017 09 06  1850 2000  Audio                 Volyne        Composition
 2017 09 05
 2017 09 04  2150 2235  Illustration          Daily         Illustration                    Forms I
